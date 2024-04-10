@@ -1,6 +1,4 @@
-### Que onda puta queres que te la ponga!
-### digo digo 
-### que digo
+### DrgX89 - Thanatos - Nixcobt
 ### Hi everyone
 ### My name is DrgX89, you can call me Dr
 ### i am a bot developer with experience in Discord Js and WhatsApp Js
