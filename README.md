@@ -4,7 +4,6 @@
 ### i am a bot developer with experience in Discord Js and WhatsApp Js
 ### actually im working in a bot for Darkness Boosted
 ### End for this moment
-### shut up fucking asshole
 <!--
 **DrgX89/DrgX89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
